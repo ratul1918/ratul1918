@@ -12,7 +12,7 @@
 I'm a learning full-stack development from Bangladesh,currently building my foundation in both frontend and backend technologies. I enjoy tackling programming challenges and learning to build efficient, scalable applications. My journey in software development is driven by curiosity and a commitment to continuous learning and growth.
 
 - 🔭 Currently learning and working on projects to develop full-stack expertise
-- 🌱 Actively studying modern web technologies and development practices
+- 🌱 Actively studying modern web technologies and development practices.
 - 💡 Passionate about clean code, efficient algorithms, and user experience.
 - 🎯 Working towards becoming a skilled full-stack developer.
 
