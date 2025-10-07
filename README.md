@@ -13,7 +13,7 @@ I'm a learning full-stack development from Bangladesh,currently building my foun
 
 - 🔭 Currently learning and working on projects to develop full-stack expertise
 - 🌱 Actively studying modern web technologies and development practices
-- 💡 Passionate about clean code, efficient algorithms, and user experience
+- 💡 Passionate about clean code, efficient algorithms, and user experience.
 - 🎯 Working towards becoming a skilled full-stack developer.
 
 ---
