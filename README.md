@@ -85,8 +85,8 @@ I enjoy solving problems, creating clean UIs, and developing scalable full-stack
 - Exploring **React Native** for mobile development  
 - Learning TypeScript & Tailwind CSS deeply  
 - Backend development with Node.js + Express  
-- Using MySQL, PostgreSQL & Prisma ORM  
-- Improving problem-solving through competitive programming  
+- Using MySQL, PostgreSQL 
+- Improving problem-solving skills
 
 ---
 
