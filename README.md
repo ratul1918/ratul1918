@@ -1,99 +1,100 @@
-# Rafiur Rahman
-**Learning Full-Stack Developer | Problem Solver | Technology Enthusiast**
+# 🚀 **Rafiur Rahman**
+**Full-Stack Developer (In Progress) | Problem Solver | Technology Enthusiast**
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ratul1918&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ratul1918&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 **About Me**
 
-I'm a learning full-stack development from Bangladesh,currently building my foundation in both frontend and backend technologies. I enjoy tackling programming challenges and learning to build efficient, scalable applications. My journey in software development is driven by curiosity and a commitment to continuous learning and growth.
+I'm an aspiring **Full-Stack Developer** from Bangladesh, building strong foundations in both **frontend & backend** technologies.  
+I enjoy solving problems, creating clean UIs, and developing scalable full-stack applications.
 
-- 🔭 Currently learning and working on projects to develop full-stack expertise.
-- 🌱 Actively studying modern web technologies and development practices.
-- 💡 Passionate about clean code, efficient algorithms, and user experience.
-- 🎯 Working towards becoming a skilled full-stack developer.
-
----
-
-## 📬 Get In Touch
-
-- **Email:** [rafiurrahman1918@gmail.com](mailto:rafiurrahman1918@gmail.com)
-- **Portfolio:** [View My Work](https://my-portfolio-lovat-phi-80.vercel.app)
-- **Codeforces:** [rafiur_](https://codeforces.com/profile/rafiur_)
+- 🔭 Improving full-stack development skills  
+- 🌱 Learning modern frameworks & databases  
+- 💡 Focused on writing clean, efficient code  
+- 🎯 Goal: Become an industry-ready full-stack engineer  
 
 ---
 
-## 🛠️ Technical Skills
+## 📬 **Connect With Me**
 
-### Frontend Development
+- **Email:** [rafiurrahman1918@gmail.com](mailto:rafiurrahman1918@gmail.com)  
+- **Portfolio:** [Visit My Website](https://my-portfolio-lovat-phi-80.vercel.app)  
+- **Codeforces:** [rafiur_](https://codeforces.com/profile/rafiur_)  
+
+---
+
+## 🛠️ **Tech Stack**
+
+### 🎨 Frontend Development
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,bootstrap" />
 </p>
 
-### Backend Development
+### ⚙️ Backend Development
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,java" />
 </p>
 
-### Programming Languages
+### 🗄️ Databases & Backend Tools
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 </p>
 
-### Game Development
+### 🧠 Programming Languages
 <p align="left">
-  <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="Unreal Engine" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=cpp,c" />
+</p>
+
+### 🎮 Game Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=unreal" />
 </p>
 
 ---
 
-## 🏆 GitHub Achievements
-
+## 🏆 **GitHub Achievements**
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ratul1918&theme=onedark&no-frame=true&margin-w=15&margin-h=15&column=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ratul1918&theme=algolia&no-frame=true&row=2&column=3" />
 </p>
 
 ---
 
-## 📈 GitHub Analytics
+## 📈 **GitHub Analytics**
 
 <div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ratul1918&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratul1918&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
-  
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ratul1918&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratul1918&layout=compact&theme=tokyonight&hide_border=true" />
+
 </div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ratul1918&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ratul1918&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🌟 What I'm Working On
+## 🌟 **Currently Working On**
 
-- Learning to build modern, responsive web applications
-- Exploring React fundamentals and JavaScript best practices
-- Developing problem-solving skills through competitive programming
-- Working on personal projects to apply newly learned concepts
+- Building responsive React web apps  
+- Exploring **React Native** for mobile development  
+- Learning TypeScript & Tailwind CSS deeply  
+- Backend development with Node.js + Express  
+- Using MySQL, PostgreSQL & Prisma ORM  
+- Improving problem-solving through competitive programming  
 
 ---
 
 <div align="center">
-  
-  **"Code is like humor. When you have to explain it, it's bad."** – Cory House
-  
-  *Let's connect and build something amazing together!*
-  
+
+### ✨ *"Code is like humor — when you have to explain it, it's bad."*  
+#### – Cory House
+
+💬 *Let’s connect and build something amazing!*  
+
 </div>
