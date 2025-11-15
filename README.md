@@ -46,7 +46,7 @@ I enjoy solving problems, creating clean UIs, and developing scalable full-stack
 
 ### 🧠 Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,java" />
 </p>
 
 
