@@ -36,7 +36,7 @@ I enjoy solving problems, creating clean UIs, and developing scalable full-stack
 
 ### ⚙️ Backend Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,java" />
+  <img src="https://skillicons.dev/icons?i=nodejs,php,java" />
 </p>
 
 ### 🗄️ Databases & Backend Tools
