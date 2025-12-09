@@ -7,7 +7,7 @@
 
 ---
 
-## 👨‍💻 **About Me** 
+## 👨‍💻 **About Me**  
 
 I'm an aspiring **Full-Stack Developer** from Bangladesh, building strong foundations in both **frontend & backend** technologies.  
 I enjoy solving problems, creating clean UIs, and developing scalable full-stack applications.
