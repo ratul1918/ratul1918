@@ -17,7 +17,7 @@ I enjoy solving problems, creating clean UIs, and developing scalable full-stack
 - 💡 Focused on writing clean, efficient code  
 - 🎯 Goal: Become an industry-ready full-stack engineer  
 
----
+--- 
 
 ## 📬 **Connect With Me** 
 
