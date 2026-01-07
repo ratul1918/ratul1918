@@ -89,7 +89,7 @@ I enjoy solving problems, creating clean UIs, and developing scalable full-stack
 - Using MySQL, PostgreSQL 
 - Improving problem-solving skills
 
----
+--- 
 
 <div align="center">
 
