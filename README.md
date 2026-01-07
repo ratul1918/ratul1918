@@ -90,7 +90,6 @@ I'm a passionate **Full-Stack Developer** from Bangladesh with a strong foundati
 - 📘 Mastering **TypeScript** for type-safe applications
 - 🌐 Backend development with **Node.js + Express**
 - 🗄️ Database design with **MySQL & PostgreSQL**
-- 🧮 Competitive programming & DSA optimization
 - 📦 Learning **Docker** for containerization
 
 ---
