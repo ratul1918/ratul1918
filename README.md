@@ -121,7 +121,7 @@ I'm a passionate **Full-Stack Developer** from Bangladesh with a strong foundati
 - ✅ Node.js & Express Backend
 - ✅ Databases (SQL & NoSQL)
 - 🔄 **Currently:** Advanced TypeScript & React Native
-- ⏳ **Next:** Cloud Deployment & DevOps
+- ⏳ **Next:** Cloud Deployment & DevOps 
 
 ---
 
