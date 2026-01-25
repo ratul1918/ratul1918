@@ -15,7 +15,6 @@ I'm a passionate **Full-Stack Developer** from Bangladesh with a strong foundati
 - 🔭 **Currently improving:** Full-stack development skills with modern frameworks
 - 🌱 **Learning:** TypeScript, React Native, and advanced database design
 - 💡 **Philosophy:** Clean, efficient, and maintainable code
-- 🎯 **Goal:** Become an industry-ready full-stack engineer
 
 ---
 
