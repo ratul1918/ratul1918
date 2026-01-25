@@ -16,7 +16,7 @@ I'm a passionate **Full-Stack Developer** from Bangladesh with a strong foundati
 - 🌱 **Learning:** TypeScript, React Native, and advanced database design
 - 💡 **Philosophy:** Clean, efficient, and maintainable code
 
----
+--- 
 
 ## 📧 Connect With Me
 
