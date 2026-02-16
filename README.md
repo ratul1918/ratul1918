@@ -27,7 +27,7 @@ I enjoy breaking down complex problems, experimenting with different approaches,
 | Platform | Link |
 |--------|------|
 | **Email** | [rafiurrahman1918@gmail.com](mailto:rafiurrahman1918@gmail.com) |
-| **Portfolio** | [my-portfolio-lovat-phi-80.vercel.app](https://port-kappa-cyan.vercel.app) |
+| **Portfolio** | [https://port-kappa-cyan.vercel.app](https://port-kappa-cyan.vercel.app) |
 | **Codeforces** | [rafiur_](https://codeforces.com/profile/rafiur_) |
 | **GitHub** | [@ratul1918](https://github.com/ratul1918) |
 
