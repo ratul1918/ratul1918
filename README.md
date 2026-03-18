@@ -16,7 +16,7 @@ My work focuses on understanding how systems behave, how data flows through them
 I enjoy breaking down complex problems, experimenting with different approaches, and continuously improving solutions through iteration and evaluation.
 
 - 🔭 **Currently exploring:** Data-oriented application design & system architecture  
-- 🌱 **Learning deeply:** TypeScript, React Native, database optimization   
+- 🌱 **Learning deeply:** TypeScript, React Native, database optimization
 - 🧩 **Interests:** Algorithms, data modeling, performance analysis  
 - 🧠 **Approach:** Think → Experiment → Analyze → Improve
 
