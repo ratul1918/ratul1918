@@ -132,7 +132,7 @@ I enjoy breaking down complex problems, experimenting with different approaches,
 ### 🤝 Open to Collaboration & Learning
 
 [![Email Badge](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:rafiurrahman1918@gmail.com)
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-View-blue?style=for-the-badge&logo=firefox)](https://my-portfolio-lovat-phi-80.vercel.app)
+[![Portfolio Badge](https://port-kappa-cyan.vercel.app)
 [![Codeforces Badge](https://img.shields.io/badge/Codeforces-Problem%20Solving-orange?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/rafiur_)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-Projects-black?style=for-the-badge&logo=github)](https://github.com/ratul1918)
 
