@@ -1,4 +1,4 @@
-# 👋 Rafiur Rahman
+# Rafiur Rahman
     
 **Computing Enthusiast | Analytical Thinker | Systems & Data-Oriented Developer** 
   
