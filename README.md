@@ -102,7 +102,7 @@ I enjoy breaking down complex problems, experimenting with different approaches,
 |------|--------------|
 | **Logic & Analysis** | Algorithms, problem decomposition, optimization |
 | **Frontend** | React, TypeScript, Tailwind CSS |
-| **Backend** | Node.js, Express, REST APIs |
+| **Backend** | Node.js, REST APIs |
 | **Data** | MySQL, PostgreSQL, MongoDB |
 | **Tools** | Git, Docker, Webpack |
 | **Mindset** | Curiosity-driven learning, experimentation |
