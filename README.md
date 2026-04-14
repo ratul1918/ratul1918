@@ -42,7 +42,7 @@ I enjoy breaking down complex problems, experimenting with different approaches,
 - Analytical problem solving  
 
 ### ⚙️ Systems & Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,java,rest" />
+<img src="https://skillicons.dev/icons?i=nodejs,php,java,rest" />
 
 - RESTful API design  
 - Backend architecture  
