@@ -33,7 +33,7 @@ I enjoy breaking down complex problems, experimenting with different approaches,
 
 ---
 
-## 🧠 Technical Focus Areas
+## 🧠 Technical Focus Areas 
 
 ### 📊 Data & Logic
 - Data Structures & Algorithms  
