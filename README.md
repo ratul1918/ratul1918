@@ -7,7 +7,7 @@
 </p>
 
 --- 
- 
+  
 ## 🔍 About Me
 
 I am a computing enthusiast from Bangladesh with a strong interest in **data-driven systems, algorithmic problem solving, and scalable software design**.  
