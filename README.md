@@ -12,7 +12,6 @@
 
 I am a computing enthusiast from Bangladesh with a strong interest in **data-driven systems, algorithmic problem solving, and scalable software design**.  
 My work focuses on understanding how systems behave, how data flows through them, and how efficient solutions can be designed through careful analysis.
-
 I enjoy breaking down complex problems, experimenting with different approaches, and continuously improving solutions through iteration and evaluation.
 
 - 🔭 **Currently exploring:** Data-oriented application design & system architecture  
