@@ -1,23 +1,21 @@
-# Rafiur Rahman 
-    
-**Computing Enthusiast | Analytical Thinker | Systems & Data-Oriented Developer** 
+# Rafiur Rahman
+
+**Computer Science Student | Software Development Learner | AI-Assisted (Vibe) Coder**
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ratul1918&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
- 
---- 
-  
+
+---
+
 ## 🔍 About Me
 
-I am a computing enthusiast from Bangladesh with a strong interest in **data-driven systems, algorithmic problem solving, and scalable software design**.  
-My work focuses on understanding how systems behave, how data flows through them, and how efficient solutions can be designed through careful analysis.
-I enjoy breaking down complex problems, experimenting with different approaches, and continuously improving solutions through iteration and evaluation.
+I am a Computer Science student from Bangladesh with a passion for learning software development and building practical applications. I enjoy using modern technologies and AI-assisted (vibe coding) workflows to transform ideas into functional software while continuously improving my programming and problem-solving skills.
 
-- 🔭 **Currently exploring:** Data-oriented application design & system architecture  
-- 🌱 **Learning deeply:** TypeScript, React Native, database optimization
-- 🧩 **Interests:** Algorithms, data modeling, performance analysis  
-- 🧠 **Approach:** Think → Experiment → Analyze → Improve
+- 🔭 **Currently learning:** Software Development & Modern Web Technologies
+- 🌱 **Exploring:** React Native, TypeScript & AI-assisted Development
+- 🧩 **Interests:** UI/UX Design, Databases, Software Engineering
+- 🧠 **Currently practicing:** Data Structures & Algorithms & Codeforces
 
 ---
 
@@ -32,45 +30,51 @@ I enjoy breaking down complex problems, experimenting with different approaches,
 
 ---
 
-## 🧠 Technical Focus Areas 
+## 🧠 Technical Focus Areas
 
-### 📊 Data & Logic
-- Data Structures & Algorithms  
-- Relational & NoSQL data modeling  
-- Query optimization & indexing  
-- Analytical problem solving  
+### 💻 Programming
+<img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,ts" />
 
-### ⚙️ Systems & Backend
-<img src="https://skillicons.dev/icons?i=nodejs,php,java,rest" />
+- Programming Fundamentals
+- Object-Oriented Programming
+- Data Structures & Algorithms (Theory)
+- Problem Solving
 
-- RESTful API design  
-- Backend architecture  
-- Authentication & authorization  
-- Scalable service development  
+### 🌐 Web Development
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nodejs,express,php" />
 
-### 🎨 Frontend & Interfaces
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react" />
+- Responsive Web Development
+- REST API Integration
+- Component-based UI
+- Modern JavaScript Development
 
-- Component-driven UI design  
-- State management & hooks  
-- Responsive and accessible layouts  
+### 🗄️ Databases & Tools
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,git,docker,postman" />
 
-### 🗄️ Databases & Tooling
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,git,docker" />
+- SQL & NoSQL Databases
+- Version Control with Git
+- Basic Docker Workflow
+- API Testing
 
-- SQL & NoSQL systems  
-- Version control workflows  
-- Containerized development  
+### 🎨 Design & AI Tools
+<img src="https://skillicons.dev/icons?i=figma,vscode" />
 
-### 🧪 Programming Languages
-<img src="https://skillicons.dev/icons?i=cpp,c,python,java" />
-
-- Algorithmic problem solving  
-- Object-oriented design  
-- Competitive programming mindset  
+- UI Design with Figma
+- AI-assisted Development (Vibe Coding)
+- Rapid Prototyping
+- Modern Developer Tools
 
 ---
- 
+
+## 🏆 Achievements
+
+- 🥈 Selected among the **Top 50 teams** in the **CUET CSE Fest Hackathon** after successfully qualifying through the preliminary round.
+- 🥉 Secured **3rd Place** in the **System Analysis and Design Project Showcase** at the **UIU CSE Project Showcase – Summer 2026**.
+- 💡 Participated in multiple university and national-level hackathons, collaborating on software solutions under competitive environments.
+- 🚀 Built multiple academic and personal software projects using modern technologies and AI-assisted development.
+
+---
+
 ## 📈 GitHub Analytics
 
 <div align="center">
@@ -87,11 +91,12 @@ I enjoy breaking down complex problems, experimenting with different approaches,
 
 ## 🚀 Current Exploration
 
-- Designing **data-aware backend systems**
-- Building **React-based analytical dashboards**
-- Exploring **TypeScript for large-scale maintainability**
-- Studying **database performance & normalization**
-- Using **Docker** for reproducible environments
+- Learning Software Development
+- AI-assisted Development (Vibe Coding)
+- React Native
+- TypeScript
+- UI Design with Figma
+- Problem Solving on Codeforces
 
 ---
 
@@ -99,36 +104,41 @@ I enjoy breaking down complex problems, experimenting with different approaches,
 
 | Domain | Capabilities |
 |------|--------------|
-| **Logic & Analysis** | Algorithms, problem decomposition, optimization |
-| **Frontend** | React, TypeScript, Tailwind CSS |
-| **Backend** | Node.js, REST APIs |
-| **Data** | MySQL, PostgreSQL, MongoDB |
-| **Tools** | Git, Docker, Webpack |
-| **Mindset** | Curiosity-driven learning, experimentation |
+| **Programming** | C, C++, Java, Python, JavaScript, TypeScript |
+| **Frontend** | HTML, CSS, React, Tailwind CSS |
+| **Backend** | Node.js, Express, PHP |
+| **Databases** | MySQL, PostgreSQL, MongoDB |
+| **Design** | Figma |
+| **Tools** | Git, Docker, Postman, VS Code |
+| **Development Style** | AI-assisted (Vibe Coding) |
 
 ---
 
-## 💡 Guiding Principles
+## 💡 Development Philosophy
 
-> *“The goal is not just to make it work, but to understand why it works.”*
+> *"Keep learning, keep building, and improve with every project."*
 
-> *“Simple systems scale better when built on strong fundamentals.”*
+> *"Every project is an opportunity to learn something new."*
 
 ---
 
 ## 📚 Continuous Learning Path
 
-- ✅ Programming fundamentals & DSA  
-- ✅ Frontend & backend development  
-- ✅ Database systems (SQL & NoSQL)  
-- 🔄 Advanced TypeScript & system design  
-- ⏳ Cloud infrastructure & distributed systems  
+- ✅ Programming Fundamentals
+- ✅ Object-Oriented Programming
+- ✅ Data Structures & Algorithms (Theory)
+- ✅ Database Fundamentals
+- 🔄 React Native
+- 🔄 TypeScript
+- 🔄 Problem Solving on Codeforces
+- ⏳ Software Engineering & System Design
 
 ---
 
 <div align="center">
 
 ### 🤝 Open to Collaboration & Learning
+
 [![Email Badge](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:rafiurrahman1918@gmail.com)
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel)](https://port-kappa-cyan.vercel.app)
 [![Codeforces Badge](https://img.shields.io/badge/Codeforces-Problem%20Solving-orange?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/rafiur_)
@@ -136,6 +146,6 @@ I enjoy breaking down complex problems, experimenting with different approaches,
 
 ---
 
-*Last Updated: January 2026*
+*Last Updated: July 2026*
 
 </div>
