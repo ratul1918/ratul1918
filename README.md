@@ -15,7 +15,7 @@ I am a Computer Science student from Bangladesh with a passion for learning soft
 - 🔭 **Currently learning:** Software Development & Modern Web Technologies
 - 🌱 **Exploring:** React Native, TypeScript & AI-assisted Development
 - 🧩 **Interests:** UI/UX Design, Databases, Software Engineering
-- 🧠 **Currently practicing:** Data Structures & Algorithms & Codeforces
+- 🧠 **Currently planning to practice:** Data Structures & Algorithms & Codeforces
 
 ---
 
