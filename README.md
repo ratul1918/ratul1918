@@ -93,10 +93,9 @@ I am a Computer Science student from Bangladesh with a passion for learning soft
 
 - Learning Software Development
 - AI-assisted Development (Vibe Coding)
-- React Native
+- ML,LLM
 - TypeScript
-- UI Design with Figma
-- Problem Solving on Codeforces
+- Problem Solving on Codeforces(not started yet)
 
 ---
 
