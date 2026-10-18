@@ -159,15 +159,7 @@ I am currently expanding my knowledge of Artificial Intelligence and Machine Lea
 * ✅ Object-Oriented Programming
 * ✅ Database Fundamentals
 * ✅ Data Structures & Algorithms Basics
-* 🔄 TypeScript
-* 🔄 React Native
-* 🔄 Machine Learning & Deep Learning
-* 🔄 Large Language Models
-* 🔄 Problem Solving
-* 🔄 Competitive Programming with Codeforces
-* ⏳ Software Engineering
-* ⏳ System Design
-* ⏳ Advanced AI/ML Engineering
+
 
 ---
 
