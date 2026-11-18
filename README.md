@@ -27,7 +27,7 @@ I use AI-assisted development workflows to turn ideas into functional software w
 | Platform       | Link                                                             |
 | -------------- | ---------------------------------------------------------------- |
 | **Email**      | [rafiurrahman1918@gmail.com](mailto:rafiurrahman1918@gmail.com)  |
-| **Portfolio**  | [port-kappa-cyan.vercel.app](https://port-kappa-cyan.vercel.app) |
+| **Portfolio**  | [My Portfolio](https://rafiurrahman1918.vercel.app) |
 | **Codeforces** | [rafiur_](https://codeforces.com/profile/rafiur_)                |
 | **GitHub**     | [@ratul1918](https://github.com/ratul1918)                       |
 
