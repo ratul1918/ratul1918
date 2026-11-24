@@ -27,7 +27,7 @@ I use AI-assisted development workflows to turn ideas into functional software w
 | Platform       | Link                                                             |
 | -------------- | ---------------------------------------------------------------- |
 | **Email**      | [rafiurrahman1918@gmail.com](mailto:rafiurrahman1918@gmail.com)  |
-| **Portfolio**  | [My Portfolio](https://rafiurrahman1918.vercel.app) |
+| **Portfolio**  | [My Portfolio](https://ratul1918.github.io/RafiurRahman/) |
 | **Codeforces** | [rafiur_](https://codeforces.com/profile/rafiur_)                |
 | **GitHub**     | [@ratul1918](https://github.com/ratul1918)                       |
 
@@ -189,7 +189,7 @@ I am always interested in learning new technologies, contributing to interesting
 <br>
 
 [![Email Badge](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge\&logo=gmail)](mailto:rafiurrahman1918@gmail.com)
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge\&logo=vercel)](https://port-kappa-cyan.vercel.app)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge\&logo=github)](https://ratul1918.github.io/RafiurRahman/)
 [![Codeforces Badge](https://img.shields.io/badge/Codeforces-Profile-orange?style=for-the-badge\&logo=codeforces)](https://codeforces.com/profile/rafiur_)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-Projects-black?style=for-the-badge\&logo=github)](https://github.com/ratul1918)
 
